@@ -2,7 +2,7 @@
 
 ![gif](download.gif)
 
-# Olá, eu sou o Rossi 👋
+# H1 ther3, c4ll me P3dr0
 
 **Estudante de Cybersecurity @ FIAP · São Paulo, Brasil**
 
@@ -12,12 +12,10 @@
 
 ## Sobre mim
 
-- 🎓 Cursando Cybersecurity na FIAP
-- 🛡️ Buscando estágio ou posição júnior em **cybersecurity** e/ou **TI**
-- 🐧 Prática com **Linux** (laboratórios de redes, firewall e administração de sistemas)
-- 🐍 Desenvolvo em **Python**
-- 🎧 Atuando com suporte em TI
-- 📜 Certificação **Red Hat RH124**
+- 🎓 Cybersecurity
+- 🛡️ It Trainee
+- 🐧 Linux amateur (laboratórios de redes, firewall e administração de sistemas)
+- 🐍 Python Developing
 
 ## Tecnologias
 
