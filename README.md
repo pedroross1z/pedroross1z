@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**pedroross1z/pedroross1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![gif](download.gif)
 
-Here are some ideas to get you started:
+# Olá, eu sou o Rossi 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Estudante de Cybersecurity @ FIAP · São Paulo, Brasil**
+
+</div>
+
+---
+
+## Sobre mim
+
+- 🎓 Cursando Cybersecurity na FIAP
+- 🛡️ Buscando estágio ou posição júnior em **cybersecurity** e/ou **TI**
+- 🐧 Prática com **Linux** (laboratórios de redes, firewall e administração de sistemas)
+- 🐍 Desenvolvo em **Python**
+- 🎧 Atuando com suporte em TI
+- 📜 Certificação **Red Hat RH124**
+
+## Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Projetos
+
+- 🔥 **Laboratório de firewall/roteador com Gentoo Linux** (VirtualBox)
+- 🧩 **ASPM MVP**: ferramenta de Application Security Posture Management
+- 🚚 Sistemas para clientes dos setores de transporte e estacionamento
+
+> Adicione links dos repositórios aqui conforme for publicando.
+
+## Contato
+
+- 📧 pedrorossidemac09@gmail.com
+- 💼 LinkedIn: _adicione seu link_
+
+---
+
+<div align="center">
+
+⭐ _"Segurança não é um produto, é um processo."_
+
+</div>
