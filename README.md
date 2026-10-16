@@ -4,13 +4,13 @@
 
 # H1 ther3, c4ll me P3dr0
 
-**Estudante de Cybersecurity @ FIAP · São Paulo, Brasil**
+**Cybersecurity Student @FIAP · São Paulo, Brasil**
 
 </div>
 
 ---
 
-## Sobre mim
+## About Me
 
 - 🎓 Cybersecurity
 - 🛡️ It Trainee
@@ -35,12 +35,12 @@
 ## Contato
 
 - 📧 pedrorossidemac09@gmail.com
-- 💼 LinkedIn: _adicione seu link_
+- 💼 LinkedIn: https://www.linkedin.com/in/pedro-r-053431304/
 
 ---
 
 <div align="center">
 
-⭐ _"Segurança não é um produto, é um processo."_
+ _"Security is Key of everything."_
 
 </div>
